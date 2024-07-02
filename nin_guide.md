@@ -1,0 +1,427 @@
+<style>
+/* Remove the horizontal rule under h1 and h2 tags */
+h1 {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.pb {
+    color: #c92664;
+}
+
+.sb {
+    color: white;
+}
+
+table {
+    display: block;
+    max-width: fit-content;
+    margin: 0 auto;
+    border: 2px solid #2a2a2a;
+    border-collapse: collapse;
+    width: 100%;
+}
+</style>
+
+# Ninja DT 7.0+ Comprensive Guide
+
+#### By: Jackal Ka'tui @ Goblin
+
+<hr>
+<div style="max-width: 700px; font-size:1.125rem">
+<div style="display: flex; align-items: flex-start;">
+  <div>
+Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Kunai's Bane) where we emphasize landing all of our biggest attacks within 15.77s, and a raid buff (Dokumori) every 2-minutes that lasts 20.5s.<br><br>
+
+If you want a melee job with the most flexibility for disengagements and has a fast-paced burst phase and relaxing filler phase, then Ninja might just be the job for you!
+
+  </div>
+    <img src="https://xivapi.com/cj/1/ninja.png" alt="Cat Picture" style="width: 200px; margin-right: 20px;"/>
+</div>
+
+This guide assumes you are <b class="pb">level 100</b> and wish to learn the job for
+<b class="pb">savage</b> or <b class="pb">ultimate</b> raiding, even if completely fresh! I will fully cover our standard rotation, as well as cursed topics such as a JP styled rotation.
+
+Other topics such as handling downtime and mult-targets is included. As such, this is a comprehensive guide.
+
+If you're looking for <b class="pb">JP Rotation</b> scroll to the bottom. That is where cursed content belongs.
+
+## Resources
+
+⦿ [Video Demo](): SOON...
+
+⦿ [Rotation Planner](https://bit.ly/45JLVNL): Includes a visualization of a 6-minute rotation, but primarily allows anyone to create a rotation with calculated values.
+
+⦿ [XIVAnalysis](https://xivanalysis.com/) is good for checking general mistakes and viewing a timeline.
+
+⦿ [XIVGear](https://xivgear.app/) create BIS for any job
+
+## Core Concepts
+
+⦿ <b class="pb">Ninki</b> is one of two gauges, and allows us to accumulate resources for use of <b>Bhavacakra</b>, <b >Hellfrog Medium</b> or <b>Bunshin</b>.
+
+Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick.
+
+Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an additional +5 Ninki.
+
+<div style="text-align: center;">
+    <img src="https://www.thebalanceffxiv.com/img/jobs/nin/image25.png" alt="Cat Picture" style="width: 300px"/>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>+5</th>
+      <th>+10</th>
+      <th>+15</th>
+      <th>+40</th>
+      <th>+50</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+      <img src="https://lds-img.finalfantasyxiv.com/d/657b568d32fd379339d365704c75ee7ca7e0cbd9.png" style="width:40px"/>
+      <img src="https://lds-img.finalfantasyxiv.com/d/3b3414364511f0fa913d25a989b88668c6152a90.png" style="width:40px"/>
+      <img src="https://lds-img.finalfantasyxiv.com/d/d40b78dd5c99076b25086882f27de295f8a609af.png" style="width:40px"/><br>
+      <img src="https://lds-img.finalfantasyxiv.com/d/86e59c1bd3dedee2a6b68d3321da04c68a3acb52.png" style="width:40px"/>
+      <img src="https://lds-img.finalfantasyxiv.com/d/e874766b966c4e6a786b58a35d76d3c0bd25b973.png" style="width:40px"/>
+      <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:40px"/><br>
+      <img src="https://lds-img.finalfantasyxiv.com/d/9ab20d782e03641292336da9b2453f426435a3b0.png" style="width:40px"/>
+      </td>
+      <td>
+      <img src="https://lds-img.finalfantasyxiv.com/d/45a5ef76e62a78c0c0fcf1feeefb4b992ab82346.png" style="width:40px"/>
+      </td>
+      <td>
+      <img src="https://lds-img.finalfantasyxiv.com/d/e68ade763da71adb1e8401db79a08e1df6f4d9e1.png" style="width:40px"/>
+      <img src="https://lds-img.finalfantasyxiv.com/d/f8e49f627d8f6e16b91b2192b322812f09c40475.png" style="width:40px"/><br>
+      </td>
+      <td>
+      <img src="https://i.imgur.com/W3gM4jr.png" style="width:40px"/>
+      </td>
+                  <td>
+      <img src="https://lds-img.finalfantasyxiv.com/d/9c7d1c58eb10c5d105f1ee98a21f84a031d26518.png" style="width:40px"/>
+      </td>
+    </tr>
+  </tbody>
+</table><br>
+
+⦿ <b class="pb">Kazematoi</b> is our second gauge and forces a similar playstyle to our former Huton gauge. We fill this gauge with <b >Armor Crush</b> and spend this gauge with <b>Aeolian Edge</b>. Each consumed stack grants +60 potency to Aeolian Edge, making the normally 440p skill be 500p.
+
+<b >Armor Crush</b> gains 2 Kazematoi to a maximum of 5 and <b>Aeolian Edge</b> spends 1 Kazematoi. It is important to note that we should never overcap Kazematoi, as this is a flat DPS loss.
+
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/CwswcrL.png" alt="Cat Picture" style="width: 200px"/>
+</div>
+
+⦿ <b class="pb">Ninjutsus</b> are unique abilities that we formulate with the mudras: Ten, Chi and Jin. Refer to this [cheat Sheet](https://imgur.com/a/veFvPGp) for all the different mudra combinations.
+
+⦿ <b class="pb">Kunai's Bane</b> is an AOE targeted personal buff that increases damage by 10% you do to the afflicted targets for 15.77 seconds every minute. Our goal is to utilize Kunai's Bane and fit as many high potency abilities as we can before it ends.
+
+⦿ <b class="pb">Dokumori</b> is our raid-buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every 2-minutes for 20.5s. We ought to couple this closely with <b >Kunai's Bane</b> to maximize our damage output.
+
+⦿ <b class="pb">Pet Potency:</b> Bunshin is our only pet and anything that Bunshin executes will use 'pet potency' instead of potency listed on our tooltip. Yes, the tooltip isn't real.
+
+This is because pets don't benefit from <b>party bonus</b> and have a <b>lower job-modifier</b>. To put simply, pets do less damage.
+
+```
+Pet potency is roughly x0.92 of their listed tooltip.
+- Phantom Kamaitachi is 552 potency
+- Single-Target bunshin hits are 147 potency.
+```
+
+## Standard Openers
+
+### Standard Opener
+
+<div style="text-align: center;">
+    <img src="https://www.thebalanceffxiv.com/img/jobs/nin/earlymug3.png" style="max-width:700px" alt="standardOpener"/>
+</div>
+
+## Standard Rotation
+
+### Filler & Kazematoi
+
+Outside of our Kunai's Bane & Dokumori burst windows, our filler is straight-forward. A majority of it will be using our combo route <b class="pb" >Spinning Edge</b> → <b class="pb">Gust Slash</b> → <b class="pb">Aeolian Edge</b> / <b class="pb">Armor Crush</b>, and allows us to continue doing damage until our next burst window.
+
+We should only use <b>Aeolian Edge</b> when our Kazematoi Gauge has at least 1 kazematoi. Otherwise, we ought to use <b>Armor Crush</b> to build. It is also important to build enough gauge so that we use <b>Aeolian Edge</b> in Kunai's Bane and Dokumori instead of <b>Armor Crush</b>.
+
+### Positionals
+
+<b>Aeolian Edge</b> is a <b class="pb">rear</b> positional while <b>Armor Crush</b> is a <b class="pb">flank</b> positional. Failing a positional is an automatic 60 potency loss, which is a similar loss to losing a kazematoi. Since we have flexibility on how we build/spend kazematoi, we should line our usage up so it's convenient to hit a rear or flank positional.
+
+### Ninki
+
+Throughout our rotation we will be building resources and spending <b class="pb">Ninki</b> as needed. Optimally, it is best if we pool our Ninki as high as possible without overcapping for our Kunai's Bane window, then dump as many spenders as weave space provides. Generally this will look to be between 1 to 3 Bhavacakras/Zesho Meppo per Kunai window.
+
+<table>
+  <thead>
+    <tr>
+      <th>Ability</th>
+      <th>Icon</th>
+      <th>Potency</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bunshin</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/0469d406babef3b172ba2a567f748b6ff8e11860.png" style="width:40px"/></td>
+            <td>N/A</td>
+      <td>Use on cooldown. Don’t hold for Kunai's Bane unless holding it won’t cost you a usage.</td>
+    </tr>
+    <tr>
+      <td>Bhavacakra</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:40px"/></td>
+            <td>380 or 530</td>
+      <td>When there are 1 - 2 targets. Only use on 3 targets if Meisui is active.</td>
+    </tr>
+    <tr>
+      <td>Zesho Meppo</td>
+            <td><img src="https://i.imgur.com/uCzREYU.png"  style="width:40px"/></td>
+      <td>550 or 700</td>
+      <td>When there is only 1 target, else Deathfrog Medium.</td>
+    </tr>
+        <tr>
+      <td>Hellfrog Medium</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/c802df3d7abd5e50889d1cc5e97cf64eb1610afa.png" style="width:40px"/></td>
+      <td>160/target</td>
+      <td>When there are 3+ targets.</td>
+    </tr>
+        <tr>
+      <td>Deathfrog Medium</td>
+            <td><img src="https://i.imgur.com/5aaG4xs.png" style="width:40px"/></td>
+      <td>300/target</td>
+      <td>When there are 2+ targets.</td>
+    </tr>
+  </tbody>
+</table><br>
+
+### Ninjutsus
+
+[Cheat Sheet](https://imgur.com/a/veFvPGp): Easy to view guide for all Ninjutsu combinations. Remember, only the <b>last</b> mudra matters for what ninjutsu gets created.
+
+It is important for a Ninja to understand and confidently know each Ninjutsu combination, as our rotation demands excessive use of <b>Ten</b>, <b>Chi</b> and <b>Jin</b> to formulate some of our strongest GCDs. With a 20 second cooldown on our mudras, we expect to get <b class="pb">3 natural Ninjutsus per minute</b>.
+
+- One ninjutsu will be used on <b>Suiton</b> or <b>Huton</b> to prepare Kunai's Bane.
+- The other two will be used on <b>Raiton</b>, <b>Katon</b>, or <b>Doton</b>.
+
+<b>Kassatsu</b> provides us with an additional Ninjutsu every minute and should be used as Hyosho Ranruu or Goka Mekkyaku. This means a total of 4 Ninjustus will be cast per minute.
+
+<table>
+  <thead>
+    <tr>
+      <th>Ability</th>
+      <th>Icon</th>
+      <th>Potency</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td>Suiton</td>
+      <td><img src="https://lds-img.finalfantasyxiv.com/d/fd706ad1980d3382fd9c64ffec7a0374d549d5cc.png" style="width:40px"/></td>
+      <td>540p</td>
+      <td>Use with 1 - 2 targets.</td>
+    </tr>
+        <tr>
+      <td>Huton</td>
+      <td><img src="https://lds-img.finalfantasyxiv.com/d/52e16f75932d2dc542606dccf6b9a8ffdef35b5d.png" style="width:40px"/></td>
+      <td>240p / target</td>
+      <td>Use over Suiton with 3+ targets.</td>
+    </tr>
+    <tr>
+      <td>Raiton</td>
+      <td><img src="https://lds-img.finalfantasyxiv.com/d/1c5d9c8d2301016f0d1d7412cc5100a7e41de735.png" style="width:40px" alt="raiton"/></td>
+      <td>700p</td>
+      <td>Use with 1 - 2 targets.</td>
+    </tr>
+    <tr>
+      <td>Katon</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/c13292e99775bf7b834e9bf44eae59cdf977dc8c.png" style="width:40px"/></td>
+      <td>350p / target</td>
+      <td>Use over Raiton with 2+ targets if Doton is active. Else, 3+ targets. </td>
+    </tr>
+    <tr>
+      <td>Doton</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/c4807f81a654f2b25cca49c1f61e9b3bc7df62d6.png" style="width:40px" alt="standardOpener"/></td>
+      <td>80p / tick per target, for 7 ticks. 560p / target full duration.</td>
+      <td>Targets afflicted with Doton for the full duration will endure 560p (or 80p per tick). Use on 2+ targets if targets remain in it for the full duration. An additional 50p (Hollow Nozuchi) is added per target upon use of Hakke Mujinsatsu, Katon, Goka Mekkyaku and Phantom Kamaitachi.</td>
+    </tr>
+        <tr>
+      <td>Hyosho Ranryu</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:40px"/></td>
+      <td>1,560p (with Kassatsu).</td>
+      <td>Use with 1 - 2 targets.</td>
+    </tr>
+        <tr>
+      <td>Goka Mekkyaku</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/289a0bd6679306c587cb3bcf2f90a1ed6bfb1897.png" style="width:40px"/></td>
+      <td>780p / target (with Kassatsu).</td>
+      <td>Use with 3+ targets.</td>
+    </tr>
+  </tbody>
+</table><br>
+
+### Multi-Target Overview
+
+<table>
+  <thead>
+    <tr>
+      <th>Ability</th>
+      <th>Icon</th>
+      <th>Potency</th>
+      <th>Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+        <tr>
+      <td>Huton</td>
+      <td><img src="https://lds-img.finalfantasyxiv.com/d/52e16f75932d2dc542606dccf6b9a8ffdef35b5d.png" style="width:40px"/></td>
+      <td>240p / target</td>
+      <td>Use over Suiton with 3+ targets.</td>
+    </tr>
+    <tr>
+      <td>Katon</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/c13292e99775bf7b834e9bf44eae59cdf977dc8c.png" style="width:40px" alt="katon"/></td>
+      <td>350p / target</td>
+      <td>Use over Raiton with 2+ targets if Doton is active. Else, 3+ targets. </td>
+    </tr>
+    <tr>
+      <td>Doton</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/c4807f81a654f2b25cca49c1f61e9b3bc7df62d6.png" style="width:40px" alt="doton"/></td>
+      <td>80p / tick per target, for 7 ticks. 560p / target full duration.</td>
+      <td>Targets afflicted with Doton for the full duration will endure 560p (or 80p per tick). Use on 2+ targets if targets remain in it for the full duration. An additional 50p is added per target upon use of Hakke Mujinsatsu, Katon, Goka Mekkyaku and Phantom Kamaitachi.</td>
+    </tr>
+        <tr>
+      <td>Goka Mekkyaku</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/289a0bd6679306c587cb3bcf2f90a1ed6bfb1897.png" style="width:40px"/></td>
+      <td>780p / target (with Kassatsu)</td>
+      <td>Use over Hyosho with 3+ targets.</td>
+    </tr>
+            <tr>
+      <td>Death Blossom & Hakke</td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/d40b78dd5c99076b25086882f27de295f8a609af.png" style="width:40px"/><br>
+            <img src="https://lds-img.finalfantasyxiv.com/d/86e59c1bd3dedee2a6b68d3321da04c68a3acb52.png" style="width:40px"/></td>
+      <td>100p / target & 130p / target respectively</td>
+      <td>Use if 4+ targets. If Doton active, use if 3+ targets.</td>
+    </tr>
+  </tbody>
+</table><br>
+
+## Standard Kunai & Dokumori Burst
+
+Since Ninja's damage is primarily focused on our burst windows, and less on our filler, it is important to be confident with the execution of our Kunai's Bane and Dokumori burst windows.
+
+Our burst can be split into two types: <b class="pb">Odd Windows</b> (1m,3m,5m...) and <b class="pb">Even Windows</b> (0m,2m,4m...). Our even windows will have our 2-minute cooldowns while our odd windows will not.
+
+### Odd Window
+
+This is a window that happens every <b class="pb">odd minute</b> or is better identified by its absence of 2-minute cooldowns. This window is easier to execute than the Even Window, for there are a lot less abilities we will cram within the window.
+
+We ought to try to fit in:
+
+x1 <b>Hyosho</b> <img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:15px"/>, x2 <b>Raiton</b> <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/3/39/Raiton.png" style="width:15px" alt="standardOpener"/>, x2 <b>Raiju</b> <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" alt="standardOpener"/>, x1 <b>Dream Within A Dream</b> <img src="https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png" style="width:15px" alt="standardOpener"/> and as many <b>Bhavacakras</b> <img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:15px"/> as we have available. An extra 2 GCDs will also make it into this window.
+
+Additionally, we should priortize <b>Aeolian Edge</b> over <b>Armor Crush</b> by ensuring we have enough Kazematoi gauge going into Kunai's Bane.
+
+If Bunshin was used 45s within an odd Kunai's Bane, and <b>Phantom Kamaitachi</b> was NOT used to disengage from the boss, we should also have x1 Phantom Kamaitachi within an odd window.
+
+#### Examples
+
+...
+
+### Even Window
+
+This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but is stronger for we will be also bursting within <b class="pb">Dokumori</b> and have all our other 2-minute cooldowns.
+
+- <b class="pb">Kunai's Bane</b> should have: x1 <b>Hyosho</b> <img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:15px"/>, x2 <b>Raiton</b> <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/3/39/Raiton.png" style="width:15px" alt="standardOpener"/>, x2 <b>Raiju</b> <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" alt="standardOpener"/>, x1 <b>Dream Within A Dream</b> <img src="https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png" style="width:15px" alt="standardOpener"/>, x1 Ten-Chi-Jin <img src="https://lds-img.finalfantasyxiv.com/d/9c0c72efe9ba9c13d3765b1b7dd863c68eeaf4ba.png" style="width:15px" alt="standardOpener"/>, x1 Tenri Jindo, x1 Zesho Meppo, and as many <b>Bhavacakras</b> <img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:15px"/> as we have available.
+
+It's better to swap out x1 Raiju for Aeolian Edge or Phantom Kamaitachi if the additional ninki gain gains a Bhavacakra in our burst. <b>Example</b>: our opener.
+
+<b>Phantom Kamaitachi</b> <img src="https://lds-img.finalfantasyxiv.com/d/45a5ef76e62a78c0c0fcf1feeefb4b992ab82346.png" style="width:15px"/> often won't be in this window. As it is <b class="pb">pet potency</b> and is less than our Raijus. Additionally, it's less potency than Aeolian & Armor Crush when Bunshin is active, as Bunshin does <b>NOT</b> apply to Phantom Kamaitachi.
+
+- <b class="pb">Dokumori</b> should have: x1 <b>Kunai's Bane</b>, everything listed in Kunai's Bane above, and:
+  - If Doku woven early-mid: +2 GCD
+  - If Doku woven late: +3 GCDs
+
+That means you should <b>always</b> fit in x3 Raijus <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" alt="standardOpener"/> into Dokumori. And 1-2 addional GCDs based on how Dokumori was weaved.
+
+#### Examples
+
+...
+
+## Miscellaneous
+
+### Boss Disengagement
+
+Ninja is considered the most flexible melee in terms of disconnecting from the boss. As every Ninjutsu is ranged and Phantom Kamaitachi isn't necessary for our burst window. Below is a simple priority:
+
+- If Kunai's Bane is less than 22s on the timer, starting preparing Suiton (takes 2.5s to cast Suiton).
+- If the disengage is within 45s after Bunshin, use Phantom Kamaitachi.
+- Use Raiton, even if that one less Raiton in Kunai's Bane.
+- Throwing Dagger.
+
+If the boss disengage is <b>during</b> burst, it's somewhat annoying due to our melee weaves. But with clever planning, you can keep 100% uptime on a boss.
+
+Note that our auto attacks are melee, so try to stay on the boss whenever possible.
+
+### Downtime
+
+Downtime == Boss untargetable.
+
+Unlike certain melee, NIN handles downtime easily. Not just rotationally, but for our damage as well. The more a NIN can burst in uptime segments, the better. For us, the only thing to keep in mind is:
+
+- If downtime is long enough that our mudras may overcap, spend all available mudras before downtime begins.
+- If downtime is long enough that our Kazematoi buff falls off, spend all Kazematoi before downtime.
+- Prepare a ninjutsu during downtime and right before the boss is targetable. That way we aren't wasting time preparing a ninjutsu when the boss is targetable. This can yield an additional GCD by the end of the fight.
+
+#### Holding Kunai's Bane
+
+## JP Opener & Rotation
+
+This is a very cursed section and I recommend you skip this unless you're looking to gamble for some pennies. You trying to prog savage or ultimate? Don't even bother. I promise it's not worth it. It's more suited for hyperoptimizers, such as speedrunners or parsers.
+
+While it is recommended to use the 4th GCD Trick Opener, but for those who know what they're signing up for, doing the JP opener is a higher potency alternative. The theory is replacing Raiton (700p) with x2 GCDs (x1 Raiju and 1 combo/PK). The x2 GCDs is always higher than Raiton.
+
+Executing this opener + rotation, however, is only a 30 RDPS gain in a 6m fight. And swiftly becomes a loss if done incorrectly.
+
+<b style="color:red">WARNING:</b> This is <b>incredibly</b> easy to mess up and only gets worse the higher your ping is. Landing the last GCD in Kunai's Bane is as close as 0.10s, and a Bunshin executed GCD is even tighter.
+
+While NoClippy or XIVAlexander can help, playing above 100ms is more trouble than it is worth. Mostly due to <b>Hyosho Ranryu</b> having an unavoidable clip based on your ping.
+
+[I mean come on...](https://youtu.be/mnrTRu0uaGM?si=de5KdWhbxD0qngrO)
+
+```
+ Hyosho / Goka recast = 1.50 + ( PING * 2 / 1000)
+
+ //at 70ms, my Hyosho's recast is 1.64s.
+```
+
+There is an <b class="pb">exception</b> though. If you miss the last GCD in Kunai's Bane due to your ping / misplay, it's sometimes still better than standard. If Bunshin is active, replacing Raiton with x1 Raiju (600 + 160 > 700). But in return, you did sort of drift Kassatsu into your Kunai's Bane... so kind of a hassle.
+
+Anyway...
+
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/Eka0RdS.png" style="max-width:700px" alt="jpOpener"/>
+</div>
+
+#### General Tips
+
+- Consider having 20ms or below ping.
+- Late weave <b>Kunai's Bane</b> as late as possible without clipping, even after a Ninjutsu.
+- Avoid using Phantom Kamaitachi as the last GCD in Kunai's Bane.
+- If Bunshin is active: Priotize <b>Forked Raiju</b> over <b>Fleeting Raiju</b> as the final GCD in Kunai's Bane. Due to Forked Raiju's quicker damage application, our bunshin will prepare damage that much quicker.
+
+#### Rotation
+
+Much like the opener, similar logic will be applied to every 2-minute window. That is, removing a Raiton from Kunai's Bane and replacing it with x2 GCDs.
+
+There is also an additional benefit when Bunshin is active. In addition to the 2 extra GCDs under Kunai's Bane, these GCDs also will have the damage bonus. For example, if you replaced Raiton (700p) with Raiju + Gust (600 + 380), that gain could become 1300p vs 700p under Kunai.
+
+#### Examples
+
+...
+
+</div>
