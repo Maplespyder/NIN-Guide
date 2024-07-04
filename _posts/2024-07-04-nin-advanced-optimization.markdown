@@ -3,6 +3,16 @@ layout: post
 author: Jackal Ka'tui @ Goblin
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8ES4HMSPV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H8ES4HMSPV');
+</script>
+
 <style>
 
 
@@ -69,7 +79,7 @@ table {
 <hr>
 <br>
 
-For both options below, I recommend using <b class="pb">XIVAlexander</b> for ping induced animation locks and <b class="pb">Reaction</b> for FPS locking on all skills.
+For both options below, I recommend using <b class="pb">XIVAlexander</b> for reducing ping induced animation locks and <b class="pb">Reaction</b> for FPS locking on all skills.
 
 These options are often rather slight gains (20-50rdps) over standard, so it's not necessary to do this but for anyone wishing to milk any extra DPS they can.
 
