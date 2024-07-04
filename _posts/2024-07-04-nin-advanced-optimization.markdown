@@ -87,44 +87,26 @@ Another <b style="color:red">warning</b>, ideally this is done on 2.12 GCD to mi
 #### Example
 
 <div style="text-align: center;">
-<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extendedStandardEx1.png" style="max-width:700px" />
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extendedStandardEx1.png" style="max-width:800px" />
 </div>
 
 [Log Example](https://www.fflogs.com/reports/8CDgaWLVtBPy9bn4#fight=2&type=casts&view=events)
 
 ## JP Opener & Rotation
 
-This is a very cursed section and I recommend you skip this unless you're looking to gamble for some pennies. You trying to prog savage or ultimate? Don't even bother. I promise it's not worth it. It's more suited for hyperoptimizers, such as speedrunners or parsers.
+Since Kunai's Bane is <b class="pb">16.25 seconds</b> instead of 15.77s, JP Opener and Rotation is significantly easier than in Endwalker. Although <b class="pb">Extended Standard</b> is likely the better alternative unless replacing x1 Raiton with x1 GCD yields an extra Bhavacakra under Kunai's Bane.
 
-While it is recommended to use the 4th GCD Trick Opener, but for those who know what they're signing up for, doing the JP opener is a higher potency alternative. The theory is replacing Raiton (700p) with x2 GCDs (x1 Raiju and 1 combo/PK). The x2 GCDs is always higher than Raiton.
+If you're progging savage or ultimate, I highly recommend not doing this. It does make executing the 2-minute window tighter due to drifting Kassatsu into our Kunai's Bane window. Furthermore, alignment may be difficult to handle as we'll be placing x1 Raiton between Dokumori and Kunai's Bane.
 
-Executing this opener + rotation, however, is only a 30 RDPS gain in a 6m fight. And swiftly becomes a loss if done incorrectly.
-
-<b style="color:red">WARNING:</b> This is <b>incredibly</b> easy to mess up and only gets worse the higher your ping is. Landing the last GCD in Kunai's Bane is as close as 0.10s, and a Bunshin executed GCD is even tighter.
-
-While NoClippy or XIVAlexander can help, playing above 100ms is more trouble than it is worth. Mostly due to <b>Hyosho Ranryu</b> having an unavoidable clip based on your ping.
-
-[I mean come on...](https://youtu.be/mnrTRu0uaGM?si=de5KdWhbxD0qngrO)
-
-```
- Hyosho / Goka recast = 1.50 + ( PING * 2 / 1000)
-
- //at 70ms, my Hyosho's recast is 1.64s.
-```
-
-There is an <b class="pb">exception</b> though. If you miss the last GCD in Kunai's Bane due to your ping / misplay, it's sometimes still better than standard. If Bunshin is active, replacing Raiton with x1 Raiju (600 + 160 > 700). But in return, you did sort of drift Kassatsu into your Kunai's Bane... so kind of a hassle.
-
-Anyway...
+In short, the theory behind the JP Opener & Rotation involves replacing x1 Raiton (740p) with x2 GCDs (x1 Raiju and x1 combo/PK). These x2 GCDs are always higher than Raiton. Additionally, there's an extra chance to gain an additional bhavacakra under Kunai's Bane. <b class="pb">Kunai's Bane must be late woven to make this work.</b>
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/Eka0RdS.png" style="max-width:700px" alt="jpOpener"/>
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpOpener.png" style="max-width:800px" alt="jpOpener"/>
 </div>
 
 #### General Tips
 
-- Consider having 20ms or below ping.
 - Late weave <b>Kunai's Bane</b> as late as possible without clipping, even after a Ninjutsu.
-- Avoid using Phantom Kamaitachi as the last GCD in Kunai's Bane.
 - If Bunshin is active: Priotize <b>Forked Raiju</b> over <b>Fleeting Raiju</b> as the final GCD in Kunai's Bane. Due to Forked Raiju's quicker damage application, our bunshin will prepare damage that much quicker.
 
 #### Rotation
@@ -135,4 +117,14 @@ There is also an additional benefit when Bunshin is active. In addition to the 2
 
 #### Examples
 
-...
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpEx1.png" style="max-width:800px" alt="jpOpener"/>
+</div>
+- Dokimori being late woven catches a 5th GCD, else it would end after the last Raiju.
+- Naturally, Kunai's Bane being used after Raiton automatically catches the 4th GCD.
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpEx2.png" style="max-width:800px" alt="jpOpener"/>
+</div>
+- Alternative method by using Phantom Kamaitachi between Raiton and Kunai's Bane. 
+- Ensure Kunai's Bane is a late weave here.
