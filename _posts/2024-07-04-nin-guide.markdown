@@ -137,7 +137,7 @@ Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an addit
       <img src="https://lds-img.finalfantasyxiv.com/d/f8e49f627d8f6e16b91b2192b322812f09c40475.png" style="width:40px"/><br>
       </td>
       <td>
-      <img src="https://i.imgur.com/W3gM4jr.png" style="width:40px"/>
+      <img src="https://lds-img.finalfantasyxiv.com/d/384071d47821ff848b0433515b14bce679ca72ae.png" style="width:40px"/>
       </td>
                   <td>
       <img src="https://lds-img.finalfantasyxiv.com/d/9c7d1c58eb10c5d105f1ee98a21f84a031d26518.png" style="width:40px"/>
@@ -151,7 +151,7 @@ Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an addit
 <b >Armor Crush</b> gains 2 Kazematoi to a maximum of 5 and <b>Aeolian Edge</b> spends 1 Kazematoi. It is important to note that we should never overcap Kazematoi, as this is a flat DPS loss.
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/CwswcrL.png" alt="Cat Picture" style="width: 200px"/>
+<img src="https://lds-img.finalfantasyxiv.com/promo/h/X/4N08Eemw-qqy87gkDKHtHfULpg.png"  style="width: 200px"/>
 </div>
 
 ⦿ <b class="pb">Ninjutsus</b> are unique abilities that we formulate with the mudras: Ten, Chi and Jin. Refer to this [cheat Sheet](https://imgur.com/a/veFvPGp) for all the different mudra combinations.
@@ -175,7 +175,7 @@ Pet potency is roughly x0.92 of their listed tooltip.
 ### Standard Opener
 
 <div style="text-align: center;">
-    <img src="https://www.thebalanceffxiv.com/img/jobs/nin/earlymug3.png" style="max-width:700px" />
+<img src="https://www.thebalanceffxiv.com/img/jobs/nin/earlymug3.png" style="max-width:700px" />
 </div>
 
 ## Standard Rotation
@@ -417,50 +417,5 @@ Unlike certain melee, NIN handles downtime easily. Not just rotationally, but fo
 - Prepare a ninjutsu during downtime and right before the boss is targetable. That way we aren't wasting time preparing a ninjutsu when the boss is targetable. This can yield an additional GCD by the end of the fight.
 
 #### Holding Kunai's Bane
-
-## JP Opener & Rotation
-
-This is a very cursed section and I recommend you skip this unless you're looking to gamble for some pennies. You trying to prog savage or ultimate? Don't even bother. I promise it's not worth it. It's more suited for hyperoptimizers, such as speedrunners or parsers.
-
-While it is recommended to use the 4th GCD Trick Opener, but for those who know what they're signing up for, doing the JP opener is a higher potency alternative. The theory is replacing Raiton (700p) with x2 GCDs (x1 Raiju and 1 combo/PK). The x2 GCDs is always higher than Raiton.
-
-Executing this opener + rotation, however, is only a 30 RDPS gain in a 6m fight. And swiftly becomes a loss if done incorrectly.
-
-<b style="color:red">WARNING:</b> This is <b>incredibly</b> easy to mess up and only gets worse the higher your ping is. Landing the last GCD in Kunai's Bane is as close as 0.10s, and a Bunshin executed GCD is even tighter.
-
-While NoClippy or XIVAlexander can help, playing above 100ms is more trouble than it is worth. Mostly due to <b>Hyosho Ranryu</b> having an unavoidable clip based on your ping.
-
-[I mean come on...](https://youtu.be/mnrTRu0uaGM?si=de5KdWhbxD0qngrO)
-
-```
- Hyosho / Goka recast = 1.50 + ( PING * 2 / 1000)
-
- //at 70ms, my Hyosho's recast is 1.64s.
-```
-
-There is an <b class="pb">exception</b> though. If you miss the last GCD in Kunai's Bane due to your ping / misplay, it's sometimes still better than standard. If Bunshin is active, replacing Raiton with x1 Raiju (600 + 160 > 700). But in return, you did sort of drift Kassatsu into your Kunai's Bane... so kind of a hassle.
-
-Anyway...
-
-<div style="text-align: center;">
-    <img src="https://i.imgur.com/Eka0RdS.png" style="max-width:700px" alt="jpOpener"/>
-</div>
-
-#### General Tips
-
-- Consider having 20ms or below ping.
-- Late weave <b>Kunai's Bane</b> as late as possible without clipping, even after a Ninjutsu.
-- Avoid using Phantom Kamaitachi as the last GCD in Kunai's Bane.
-- If Bunshin is active: Priotize <b>Forked Raiju</b> over <b>Fleeting Raiju</b> as the final GCD in Kunai's Bane. Due to Forked Raiju's quicker damage application, our bunshin will prepare damage that much quicker.
-
-#### Rotation
-
-Much like the opener, similar logic will be applied to every 2-minute window. That is, removing a Raiton from Kunai's Bane and replacing it with x2 GCDs.
-
-There is also an additional benefit when Bunshin is active. In addition to the 2 extra GCDs under Kunai's Bane, these GCDs also will have the damage bonus. For example, if you replaced Raiton (700p) with Raiju + Gust (600 + 380), that gain could become 1300p vs 700p under Kunai.
-
-#### Examples
-
-...
 
 </div>
