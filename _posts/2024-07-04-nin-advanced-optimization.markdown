@@ -65,8 +65,6 @@ table {
 }
 </style>
 
-# Ninja Advanced Optimization
-
 <hr>
 <br>
 
@@ -88,6 +86,16 @@ Another <b style="color:red">warning</b>, ideally this is done on 2.12 GCD to mi
 
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/extendedStandardEx1.png" style="max-width:800px" />
+</div>
+
+#### Openers
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extStand4th.png" style="max-width:800px" />
+</div>
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extStand3rd.png" style="max-width:800px" />
 </div>
 
 [Log Example](https://www.fflogs.com/reports/8CDgaWLVtBPy9bn4#fight=2&type=casts&view=events)

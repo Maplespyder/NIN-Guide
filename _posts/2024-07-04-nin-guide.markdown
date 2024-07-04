@@ -69,8 +69,6 @@ table {
 }
 </style>
 
-## Ninja DT 7.0+ Comprensive Guide
-
 <hr>
 <br>
 <div style="max-width: 700px; font-size:1.125rem">
@@ -85,7 +83,7 @@ If you want a melee job with the most flexibility for disengagements and has a f
 </div>
 
 This guide assumes you are <b class="pb">level 100</b> and wish to learn the job for
-<b class="pb">savage</b> or <b class="pb">ultimate</b> raiding, even if completely fresh! I will fully cover our standard rotation, as well as cursed topics such as a JP styled rotation.
+<b class="pb">savage</b> or <b class="pb">ultimate</b> raiding, even if completely fresh! This covers the standard rotation, any further (more cursed optimization)
 
 Other topics such as handling downtime and mult-targets is included. As such, this is a comprehensive guide.
 
