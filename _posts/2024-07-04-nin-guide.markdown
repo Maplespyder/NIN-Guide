@@ -18,6 +18,10 @@ body {
     color: white;
 }
 
+h3 {
+  color: #d952b0;
+}
+
 a { 
   font-weight: bold;
 }
@@ -51,6 +55,7 @@ th {
     background-color: #0e1114 !important;
     color: white;
 }
+
 
 
 table {
@@ -96,7 +101,30 @@ If you're looking for <b class="pb">JP Rotation</b> scroll to the bottom. That i
 
 ⦿ [XIVGear](https://xivgear.app/) create BIS for any job
 
+# Table of Contents
+
+<hr>
+<br>
+
+- [Core Concepts](#core-concepts)
+- [Standard Openers](#standard-openers)
+- [Standard Rotation](#standard-rotation)
+  - [Filler & Kazematoi](#filler--kazematoi)
+  - [Positionals](#positionals)
+  - [Ninki](#ninki)
+  - [Ninjutsus](#ninjutsus)
+  - [Multi-Target-Overview](#multi-target-overview)
+- [Standard Burst Windows](#standard-burst-windows)
+  - [Odd Window](#odd-window)
+  - [Even Window](#even-window)
+- [Miscellaneous](#miscellaneous)
+  - [Boss Disengagement](#boss-disengagement)
+  - [Downtime](#downtime)
+
 ## Core Concepts
+
+<hr>
+<br>
 
 ⦿ <b class="pb">Ninki</b> is one of two gauges, and allows us to accumulate resources for use of <b>Bhavacakra</b>, <b >Hellfrog Medium</b> or <b>Bunshin</b>.
 
@@ -156,9 +184,9 @@ Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an addit
 
 ⦿ <b class="pb">Ninjutsus</b> are unique abilities that we formulate with the mudras: Ten, Chi and Jin. Refer to this [cheat Sheet](https://imgur.com/a/veFvPGp) for all the different mudra combinations.
 
-⦿ <b class="pb">Kunai's Bane</b> is an AOE targeted personal buff that increases damage by 10% you do to the afflicted targets for 15.77 seconds every minute. Our goal is to utilize Kunai's Bane and fit as many high potency abilities as we can before it ends.
+⦿ <b class="pb">Kunai's Bane</b> is an AOE targeted personal buff that increases damage by 10% you do to the afflicted targets for 16.25 seconds every minute. Our goal is to utilize Kunai's Bane and fit as many high potency abilities as we can before it ends.
 
-⦿ <b class="pb">Dokumori</b> is our raid-buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every 2-minutes for 20.5s. We ought to couple this closely with <b >Kunai's Bane</b> to maximize our damage output.
+⦿ <b class="pb">Dokumori</b> is our raid-buff that afflicts the target with a vulnerability debuff that increases damage taken by 5% for everyone hitting the target every 2-minutes for 21.0s. We ought to couple this closely with <b >Kunai's Bane</b> to maximize our damage output.
 
 ⦿ <b class="pb">Pet Potency:</b> Bunshin is our only pet and anything that Bunshin executes will use 'pet potency' instead of potency listed on our tooltip. Yes, the tooltip isn't real.
 
@@ -172,13 +200,19 @@ Pet potency is roughly x0.92 of their listed tooltip.
 
 ## Standard Openers
 
-### Standard Opener
+<hr>
+<br>
+
+### Standard Openers
 
 <div style="text-align: center;">
 <img src="https://www.thebalanceffxiv.com/img/jobs/nin/earlymug3.png" style="max-width:700px" />
 </div>
 
 ## Standard Rotation
+
+<hr>
+<br>
 
 ### Filler & Kazematoi
 
@@ -349,7 +383,10 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
   </tbody>
 </table><br>
 
-## Standard Kunai & Dokumori Burst
+## Standard Burst Windows
+
+<hr>
+<br>
 
 Since Ninja's damage is primarily focused on our burst windows, and less on our filler, it is important to be confident with the execution of our Kunai's Bane and Dokumori burst windows.
 
@@ -393,6 +430,9 @@ That means you should <b>always</b> fit in x3 Raijus <img src="https://lds-img.f
 
 ## Miscellaneous
 
+<hr>
+<br>
+
 ### Boss Disengagement
 
 Ninja is considered the most flexible melee in terms of disconnecting from the boss. As every Ninjutsu is ranged and Phantom Kamaitachi isn't necessary for our burst window. Below is a simple priority:
@@ -413,7 +453,6 @@ Downtime == Boss untargetable.
 Unlike certain melee, NIN handles downtime easily. Not just rotationally, but for our damage as well. The more a NIN can burst in uptime segments, the better. For us, the only thing to keep in mind is:
 
 - If downtime is long enough that our mudras may overcap, spend all available mudras before downtime begins.
-- If downtime is long enough that our Kazematoi buff falls off, spend all Kazematoi before downtime.
 - Prepare a ninjutsu during downtime and right before the boss is targetable. That way we aren't wasting time preparing a ninjutsu when the boss is targetable. This can yield an additional GCD by the end of the fight.
 
 #### Holding Kunai's Bane
