@@ -1,9 +1,13 @@
+---
+layout: post
+author: Jackal Ka'tui @ Goblin
+---
+
 <style>
-/* Remove the horizontal rule under h1 and h2 tags */
-h1 {
-  border-bottom: none;
-  margin-bottom: 0;
-  padding-bottom: 0;
+
+body {
+  background: #0d1117;
+  color: white;
 }
 
 .pb {
@@ -14,7 +18,43 @@ h1 {
     color: white;
 }
 
+a { 
+  font-weight: bold;
+}
+
+code {
+  background: black !important;
+}
+
+.highlight {
+  background: black !important;
+  color: white;
+}
+
+/* tr {
+  background: #161b22 !important;
+  color: white;
+} */
+
+tbody tr:nth-child(odd) {
+    background-color: #0d1117;
+    color: white;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #161b22;
+    color: white;
+
+}
+
+th {
+    background-color: #0e1114 !important;
+    color: white;
+}
+
+
 table {
+  background: black;
     display: block;
     max-width: fit-content;
     margin: 0 auto;
@@ -24,20 +64,19 @@ table {
 }
 </style>
 
-# Ninja DT 7.0+ Comprensive Guide
-
-#### By: Jackal Ka'tui @ Goblin
+## Ninja DT 7.0+ Comprensive Guide
 
 <hr>
+<br>
 <div style="max-width: 700px; font-size:1.125rem">
 <div style="display: flex; align-items: flex-start;">
-  <div>
-Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Kunai's Bane) where we emphasize landing all of our biggest attacks within 15.77s, and a raid buff (Dokumori) every 2-minutes that lasts 20.5s.<br><br>
+  <div style="width: 60%">
+Ninja is a fast-paced yet flexible job with a high focus on a powerful burst every one and two minutes. It is unique from other jobs with its utilization of Ninjutsus, a combo-like system allowing a Ninja to form a multitude of ranged attacks. We have a personal buff every minute (Kunai's Bane) where we emphasize landing all of our biggest attacks within 16.25s, and a raid buff (Dokumori) every 2-minutes that lasts 21s.<br><br>
 
 If you want a melee job with the most flexibility for disengagements and has a fast-paced burst phase and relaxing filler phase, then Ninja might just be the job for you!
 
-  </div>
-    <img src="https://xivapi.com/cj/1/ninja.png" alt="Cat Picture" style="width: 200px; margin-right: 20px;"/>
+</div>
+<img src="https://xivapi.com/cj/1/ninja.png"/>
 </div>
 
 This guide assumes you are <b class="pb">level 100</b> and wish to learn the job for
@@ -66,7 +105,7 @@ Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn g
 Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an additional +5 Ninki.
 
 <div style="text-align: center;">
-    <img src="https://www.thebalanceffxiv.com/img/jobs/nin/image25.png" alt="Cat Picture" style="width: 300px"/>
+<img src="https://www.thebalanceffxiv.com/img/jobs/nin/image25.png" style="width: 300px"/>
 </div>
 
 <table>
@@ -112,7 +151,7 @@ Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an addit
 <b >Armor Crush</b> gains 2 Kazematoi to a maximum of 5 and <b>Aeolian Edge</b> spends 1 Kazematoi. It is important to note that we should never overcap Kazematoi, as this is a flat DPS loss.
 
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/CwswcrL.png" alt="Cat Picture" style="width: 200px"/>
+<img src="https://i.imgur.com/CwswcrL.png" alt="Cat Picture" style="width: 200px"/>
 </div>
 
 ⦿ <b class="pb">Ninjutsus</b> are unique abilities that we formulate with the mudras: Ten, Chi and Jin. Refer to this [cheat Sheet](https://imgur.com/a/veFvPGp) for all the different mudra combinations.
@@ -136,7 +175,7 @@ Pet potency is roughly x0.92 of their listed tooltip.
 ### Standard Opener
 
 <div style="text-align: center;">
-    <img src="https://www.thebalanceffxiv.com/img/jobs/nin/earlymug3.png" style="max-width:700px" alt="standardOpener"/>
+    <img src="https://www.thebalanceffxiv.com/img/jobs/nin/earlymug3.png" style="max-width:700px" />
 </div>
 
 ## Standard Rotation
@@ -179,7 +218,7 @@ Throughout our rotation we will be building resources and spending <b class="pb"
     </tr>
     <tr>
       <td>Zesho Meppo</td>
-            <td><img src="https://i.imgur.com/uCzREYU.png"  style="width:40px"/></td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/55604bbe9cf720982be6e0ef74e9bf002d939935.png"  style="width:40px"/></td>
       <td>550 or 700</td>
       <td>When there is only 1 target, else Deathfrog Medium.</td>
     </tr>
@@ -191,7 +230,7 @@ Throughout our rotation we will be building resources and spending <b class="pb"
     </tr>
         <tr>
       <td>Deathfrog Medium</td>
-            <td><img src="https://i.imgur.com/5aaG4xs.png" style="width:40px"/></td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/cb1fc6f802ae442daa8ead243f4f9f49bf9525f4.png" style="width:40px"/></td>
       <td>300/target</td>
       <td>When there are 2+ targets.</td>
     </tr>
@@ -245,7 +284,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
     </tr>
     <tr>
       <td>Doton</td>
-            <td><img src="https://lds-img.finalfantasyxiv.com/d/c4807f81a654f2b25cca49c1f61e9b3bc7df62d6.png" style="width:40px" alt="standardOpener"/></td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/c4807f81a654f2b25cca49c1f61e9b3bc7df62d6.png" style="width:40px" /></td>
       <td>80p / tick per target, for 7 ticks. 560p / target full duration.</td>
       <td>Targets afflicted with Doton for the full duration will endure 560p (or 80p per tick). Use on 2+ targets if targets remain in it for the full duration. An additional 50p (Hollow Nozuchi) is added per target upon use of Hakke Mujinsatsu, Katon, Goka Mekkyaku and Phantom Kamaitachi.</td>
     </tr>
@@ -284,7 +323,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
     </tr>
     <tr>
       <td>Katon</td>
-            <td><img src="https://lds-img.finalfantasyxiv.com/d/c13292e99775bf7b834e9bf44eae59cdf977dc8c.png" style="width:40px" alt="katon"/></td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/1c5d9c8d2301016f0d1d7412cc5100a7e41de735.png" style="width:40px" alt="katon"/></td>
       <td>350p / target</td>
       <td>Use over Raiton with 2+ targets if Doton is active. Else, 3+ targets. </td>
     </tr>
@@ -322,7 +361,7 @@ This is a window that happens every <b class="pb">odd minute</b> or is better id
 
 We ought to try to fit in:
 
-x1 <b>Hyosho</b> <img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:15px"/>, x2 <b>Raiton</b> <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/3/39/Raiton.png" style="width:15px" alt="standardOpener"/>, x2 <b>Raiju</b> <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" alt="standardOpener"/>, x1 <b>Dream Within A Dream</b> <img src="https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png" style="width:15px" alt="standardOpener"/> and as many <b>Bhavacakras</b> <img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:15px"/> as we have available. An extra 2 GCDs will also make it into this window.
+x1 <b>Hyosho</b> <img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:15px"/>, x2 <b>Raiton</b> <img src="https://lds-img.finalfantasyxiv.com/d/1c5d9c8d2301016f0d1d7412cc5100a7e41de735.png" style="width:15px" />, x2 <b>Raiju</b> <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" />, x1 <b>Dream Within A Dream</b> <img src="https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png" style="width:15px" /> and as many <b>Bhavacakras</b> <img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:15px"/> as we have available. An extra 2 GCDs will also make it into this window.
 
 Additionally, we should priortize <b>Aeolian Edge</b> over <b>Armor Crush</b> by ensuring we have enough Kazematoi gauge going into Kunai's Bane.
 
@@ -336,7 +375,7 @@ If Bunshin was used 45s within an odd Kunai's Bane, and <b>Phantom Kamaitachi</b
 
 This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but is stronger for we will be also bursting within <b class="pb">Dokumori</b> and have all our other 2-minute cooldowns.
 
-- <b class="pb">Kunai's Bane</b> should have: x1 <b>Hyosho</b> <img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:15px"/>, x2 <b>Raiton</b> <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/3/39/Raiton.png" style="width:15px" alt="standardOpener"/>, x2 <b>Raiju</b> <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" alt="standardOpener"/>, x1 <b>Dream Within A Dream</b> <img src="https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png" style="width:15px" alt="standardOpener"/>, x1 Ten-Chi-Jin <img src="https://lds-img.finalfantasyxiv.com/d/9c0c72efe9ba9c13d3765b1b7dd863c68eeaf4ba.png" style="width:15px" alt="standardOpener"/>, x1 Tenri Jindo, x1 Zesho Meppo, and as many <b>Bhavacakras</b> <img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:15px"/> as we have available.
+- <b class="pb">Kunai's Bane</b> should have: x1 <b>Hyosho</b> <img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:15px"/>, x2 <b>Raiton</b> <img src="https://lds-img.finalfantasyxiv.com/d/1c5d9c8d2301016f0d1d7412cc5100a7e41de735.png" style="width:15px" />, x2 <b>Raiju</b> <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" />, x1 <b>Dream Within A Dream</b> <img src="https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png" style="width:15px" />, x1 Ten-Chi-Jin <img src="https://lds-img.finalfantasyxiv.com/d/9c0c72efe9ba9c13d3765b1b7dd863c68eeaf4ba.png" style="width:15px" />, x1 Tenri Jindo, x1 Zesho Meppo, and as many <b>Bhavacakras</b> <img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:15px"/> as we have available.
 
 It's better to swap out x1 Raiju for Aeolian Edge or Phantom Kamaitachi if the additional ninki gain gains a Bhavacakra in our burst. <b>Example</b>: our opener.
 
@@ -346,7 +385,7 @@ It's better to swap out x1 Raiju for Aeolian Edge or Phantom Kamaitachi if the a
   - If Doku woven early-mid: +2 GCD
   - If Doku woven late: +3 GCDs
 
-That means you should <b>always</b> fit in x3 Raijus <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" alt="standardOpener"/> into Dokumori. And 1-2 addional GCDs based on how Dokumori was weaved.
+That means you should <b>always</b> fit in x3 Raijus <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" /> into Dokumori. And 1-2 addional GCDs based on how Dokumori was weaved.
 
 #### Examples
 
