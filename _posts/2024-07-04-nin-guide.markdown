@@ -333,7 +333,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
         <tr>
       <td>Hyosho Ranryu</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:40px"/></td>
-      <td>1,560p (with Kassatsu).</td>
+      <td>1,690p (with Kassatsu).</td>
       <td>Use with 1 - 2 targets.</td>
     </tr>
         <tr>
