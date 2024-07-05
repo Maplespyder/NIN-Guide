@@ -377,7 +377,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
     </tr>
     <tr>
       <td>Katon</td>
-            <td><img src="Ash'leigh has completed a venture!" style="width:40px" alt="katon"/></td>
+            <td><img src="https://lds-img.finalfantasyxiv.com/d/c13292e99775bf7b834e9bf44eae59cdf977dc8c.png" style="width:40px" alt="katon"/></td>
       <td>350p / target</td>
       <td>Use over Raiton with 2+ targets if Doton is active. Else, 3+ targets. </td>
     </tr>
