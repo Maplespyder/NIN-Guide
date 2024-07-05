@@ -214,8 +214,20 @@ Pet potency is roughly x0.92 of their listed tooltip.
 ### Standard Openers
 
 <div style="text-align: center;">
-<img src="https://www.thebalanceffxiv.com/img/jobs/nin/earlymug3.png" style="max-width:700px" />
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/standard4th.png" style="max-width:800px; border: 1px solid white;" />
 </div>
+- Suiton prepull preparation should be at -6.0 seconds and cast approximately -0.90 seconds on the timer. This will shorten our cooldown on mudra and ensure we can get x2 Raiton under Kunai's Bane after the opener.
+- Ideally drift Dokumori 1 GCD post opener, to allow for better alignment with all other raid buffs. We use it so early in the opener due to Bunshin.
+<br>
+<br>
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/standard3rd.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+
+- Similar to the above with Suiton and drifting Dokomori.
+- This uses Kunai's Bane a GCD earlier, but is a slightly weaker opener.
+- This opener is preferable on 2.10 GCD due to inherit drift on that speed.
 
 ## Standard Rotation
 

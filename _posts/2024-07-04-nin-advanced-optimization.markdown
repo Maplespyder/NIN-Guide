@@ -100,7 +100,7 @@ Another <b style="color:red">warning</b>, ideally this is done on 2.12 GCD to mi
 #### Example
 
 <div style="text-align: center;">
-<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extendedStandardEx1.png" style="max-width:800px" />
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extendedStandardEx1.png" style="max-width:800px; border: 1px solid white;" />
 </div>
 
 [Log Example](https://www.fflogs.com/reports/8CDgaWLVtBPy9bn4#fight=2&type=casts&view=events)
@@ -108,11 +108,11 @@ Another <b style="color:red">warning</b>, ideally this is done on 2.12 GCD to mi
 #### Openers
 
 <div style="text-align: center;">
-<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extStand4th.png" style="max-width:800px" />
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extStand4th.png" style="max-width:800px; border: 1px solid white;" />
 </div>
 
 <div style="text-align: center;">
-<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extStand3rd.png" style="max-width:800px" />
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/extStand3rd.png" style="max-width:800px; border: 1px solid white;" />
 </div>
 
 #### General Tips
@@ -130,7 +130,7 @@ If you're progging savage or ultimate, I highly recommend not doing this. It doe
 In short, the theory behind the JP Opener & Rotation involves replacing x1 Raiton (740p) with x2 GCDs (x1 Raiju and x1 combo/PK). These x2 GCDs are always higher than Raiton. Additionally, there's an extra chance to gain an additional bhavacakra under Kunai's Bane. <b class="pb">Kunai's Bane must be late woven to make this work.</b>
 
 <div style="text-align: center;">
-<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpOpener.png" style="max-width:800px" alt="jpOpener"/>
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpOpener.png" style="max-width:800px; border: 1px solid white;" alt="jpOpener"/>
 </div>
 
 #### General Tips
@@ -147,13 +147,13 @@ There is also an additional benefit when Bunshin is active. In addition to the 2
 #### Examples
 
 <div style="text-align: center;">
-<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpEx1.png" style="max-width:800px" alt="jpOpener"/>
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpEx1.png" style="max-width:800px; border: 1px solid white;" alt="example"/>
 </div>
 - Dokimori being late woven catches a 5th GCD, else it would end after the last Raiju.
 - Naturally, Kunai's Bane being used after Raiton automatically catches the 4th GCD.
 
 <div style="text-align: center;">
-<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpEx2.png" style="max-width:800px" alt="jpOpener"/>
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpEx2.png" style="max-width:800px; border: 1px solid white;" alt="example"/>
 </div>
 - Alternative method by using Phantom Kamaitachi between Raiton and Kunai's Bane. 
 - Ensure Kunai's Bane is a late weave here.
