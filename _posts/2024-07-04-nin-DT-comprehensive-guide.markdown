@@ -463,6 +463,8 @@ It's better to swap out x1 Raiju for Aeolian Edge or Phantom Kamaitachi if the a
 
 That means you should <b>always</b> fit in x3 Raijus <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" /> into Dokumori. And 1-2 addional GCDs based on how Dokumori was weaved.
 
+There is an <b class="pb">additional optimization</b> regarding 2-minute windows where Kunai's Bane is late woven to catch +1 GCD. It's a bit tight and therefore can be found here: [Further Optimization](https://maplespyder.github.io/NIN-Guide/2024/07/04/nin-advanced-optimization.html)
+
 #### Examples
 
 <div style="text-align: center;">
