@@ -327,7 +327,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
     <tr>
       <td>Raiton</td>
       <td><img src="https://lds-img.finalfantasyxiv.com/d/1c5d9c8d2301016f0d1d7412cc5100a7e41de735.png" style="width:40px" alt="raiton"/></td>
-      <td>700p</td>
+      <td>740p</td>
       <td>Use with 1 - 2 targets.</td>
     </tr>
     <tr>
