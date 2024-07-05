@@ -97,7 +97,7 @@ This guide assumes you are <b class="pb">level 100</b> and wish to learn the job
 
 Other topics such as handling downtime and mult-targets is included. As such, this is a comprehensive guide.
 
-If you're looking for <b class="pb">JP Rotation</b> scroll to the bottom. That is where cursed content belongs.
+If you're looking for <b class="pb">Advanced Optimizations</b> such as Extended Standard or JP, check the advanced guide on this site.
 
 ## Resources
 
