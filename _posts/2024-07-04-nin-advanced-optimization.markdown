@@ -121,7 +121,6 @@ Another <b style="color:red">warning</b>, ideally this is done on 2.12 GCD to mi
 #### General Tips
 
 - Late weave <b>Kunai's Bane</b> as late as possible without clipping, even after a Ninjutsu.
-- If Bunshin is active: Priotize <b>Forked Raiju</b> over <b>Fleeting Raiju</b> as the final GCD in Kunai's Bane. Due to Forked Raiju's quicker damage application, our bunshin will prepare damage that much quicker.
 - Prioritize not putting Phantom Kamaitachi as the last GCD under Kunai, due to it preparing on the boss later due to being executed by the pet.
 
 ## JP Opener & Rotation
