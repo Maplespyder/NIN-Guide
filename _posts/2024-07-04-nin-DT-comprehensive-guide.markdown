@@ -242,7 +242,7 @@ We should only use <b>Aeolian Edge</b> when our Kazematoi Gauge has at least 1 k
 
 ### Positionals
 
-<b>Aeolian Edge</b> is a <b class="pb">rear</b> positional while <b>Armor Crush</b> is a <b class="pb">flank</b> positional. Failing a positional is an automatic 60 potency loss, which is a similar loss to losing a kazematoi. Since we have flexibility on how we build/spend kazematoi, we should line our usage up so it's convenient to hit a rear or flank positional.
+<b>Aeolian Edge</b> is a <b class="pb">rear</b> positional while <b>Armor Crush</b> is a <b class="pb">flank</b> positional. Since we have flexibility on how we build/spend kazematoi, we should line our usage up so it's convenient to hit a rear or flank positional.
 
 ### Ninki
 
