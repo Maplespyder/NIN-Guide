@@ -426,7 +426,26 @@ If Bunshin was used 45s within an odd Kunai's Bane, and <b>Phantom Kamaitachi</b
 
 #### Examples
 
-...
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/oddEx1.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+- Example of a fairly standard odd window, where we have Phnatom Kamaitachi available. 
+- Bunshin isn't active in this window.
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/oddEx2.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+- In this example, Bunshin is active and we opted to push Phantom Kamaitachi after Kunai's Bane to allow Aeolian + Bunshin to fit in instead (687p > 552p).
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/oddEx3.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+- Very similar to the above, but our first non-Raiju GCD choices are between Aeolian or Phantom Kamaitachi. In this case, we put Phantom Kamaitachi first to get Aeolian into the window.
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/oddEx4.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+- Similar to the first example, but we used a GCD as the first thing in Kunai's Bane. This method could help alleviate Dream Within A Dream drift.
 
 ### Even Window
 
@@ -446,7 +465,15 @@ That means you should <b>always</b> fit in x3 Raijus <img src="https://lds-img.f
 
 #### Examples
 
-...
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/evenEx1.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+- In the above example, Dokumori is an early weave and therefore catches 4 GCDs.
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/evenEx2.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+- Similar to the first example, butt Dokumori is late weave and therefore catches 5 GCDs.
 
 ## Miscellaneous
 
