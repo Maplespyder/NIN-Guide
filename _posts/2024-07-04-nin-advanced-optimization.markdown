@@ -85,6 +85,9 @@ These options are often rather slight gains (20-50rdps) over standard, so it's n
 
 ## Extended Standard
 
+<hr>
+<br>
+
 Thanks to Kunai's Bane, our personal debuff is now <b class="pb">16.25 seconds</b> long. Meanwhile Dokuomori is <b class="pb">21 seconds</b>. While Dokumori's increase doesn't change much, Kunai's Bane's measly 0.48 second duration increase altered two things:
 
 - JP Opener & Rotation is much easier to execute
@@ -122,6 +125,9 @@ Another <b style="color:red">warning</b>, ideally this is done on 2.12 GCD to mi
 - Prioritize not putting Phantom Kamaitachi as the last GCD under Kunai, due to it preparing on the boss later due to being executed by the pet.
 
 ## JP Opener & Rotation
+
+<hr>
+<br>
 
 Since Kunai's Bane is <b class="pb">16.25 seconds</b> instead of 15.77s, JP Opener and Rotation is significantly easier than in Endwalker. It should be easier to fit in the extra GCD compared to Extended Standard, albeit a bit more awkward due to the Raiton before Kunai's Bane.
 
