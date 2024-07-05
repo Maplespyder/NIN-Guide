@@ -173,7 +173,7 @@ Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an addit
       <img src="https://lds-img.finalfantasyxiv.com/d/f8e49f627d8f6e16b91b2192b322812f09c40475.png" style="width:40px"/><br>
       </td>
       <td>
-      <img src="https://lds-img.finalfantasyxiv.com/d/384071d47821ff848b0433515b14bce679ca72ae.png" style="width:40px"/>
+      <img src="https://lds-img.finalfantasyxiv.com/d/751e11fc60c05f5ac427b522211ae510ef845f6c.png" style="width:40px"/>
       </td>
                   <td>
       <img src="https://lds-img.finalfantasyxiv.com/d/9c7d1c58eb10c5d105f1ee98a21f84a031d26518.png" style="width:40px"/>
