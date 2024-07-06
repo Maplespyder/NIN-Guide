@@ -152,7 +152,7 @@ There is also an additional benefit when Bunshin is active. In addition to the 2
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/jpEx1.png" style="max-width:800px; border: 1px solid white;" alt="example"/>
 </div>
-- Dokimori being late woven catches a 5th GCD, else it would end after the last Raiju.
+- Dokumori being late woven catches a 5th GCD, else it would end after the last Raiju.
 - Naturally, Kunai's Bane being used after Raiton automatically catches the 4th GCD.
 
 <div style="text-align: center;">
