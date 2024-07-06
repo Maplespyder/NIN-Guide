@@ -458,8 +458,8 @@ It's better to swap out x1 Raiju for Aeolian Edge or Phantom Kamaitachi if the a
 <b>Phantom Kamaitachi</b> <img src="https://lds-img.finalfantasyxiv.com/d/45a5ef76e62a78c0c0fcf1feeefb4b992ab82346.png" style="width:15px"/> often won't be in this window. As it is <b class="pb">pet potency</b> and is less than our Raijus. Additionally, it's less potency than Aeolian & Armor Crush when Bunshin is active, as Bunshin does <b>NOT</b> apply to Phantom Kamaitachi.
 
 - <b class="pb">Dokumori</b> should have: x1 <b>Kunai's Bane</b>, everything listed in Kunai's Bane above, and:
-  - If Doku woven early-mid: +2 GCD
-  - If Doku woven late: +3 GCDs
+  - If Doku woven early: +2 GCD
+  - If Doku woven mid or late: +3 GCDs
 
 That means you should <b>always</b> fit in x3 Raijus <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" /> into Dokumori. And 1-2 addional GCDs based on how Dokumori was weaved.
 
