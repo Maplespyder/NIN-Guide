@@ -98,8 +98,6 @@ That is if Kunai's Bane is <b class="pb">late woven</b>, we can catch an additio
 
 <b style="color:red">WARNING:</b> It's pretty tight! The only drawback to trying this might be just drifting Kunai's Bane, but overall the gameplay is quite identical to standard.
 
-Another <b style="color:red">warning</b>, ideally this is done on 2.12 GCD to minimize Dokumori & Kunai's Bane drifting. 2.10 has natural drift and therefore you'll easily drift too far out of other player's buffs, and misalign Dokumori.
-
 #### Example
 
 <div style="text-align: center;">
