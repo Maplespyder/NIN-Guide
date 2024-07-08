@@ -475,7 +475,7 @@ There is an <b class="pb">additional optimization</b> regarding 2-minute windows
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/evenEx2.png" style="max-width:800px; border: 1px solid white;" />
 </div>
-- Similar to the first example, butt Dokumori is late weave and therefore catches 5 GCDs.
+- Similar to the first example but Dokumori is late weave and therefore catches 5 GCDs.
 
 ## Miscellaneous
 
