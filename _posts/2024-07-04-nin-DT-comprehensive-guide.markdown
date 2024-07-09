@@ -182,7 +182,7 @@ Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an addit
   </tbody>
 </table><br>
 
-⦿ <b class="pb">Kazematoi</b> is our second gauge and forces a similar playstyle to our former Huton gauge. We fill this gauge with <b >Armor Crush</b> and spend this gauge with <b>Aeolian Edge</b>. Each consumed stack grants +60 potency to Aeolian Edge, making the normally 440p skill be 500p.
+⦿ <b class="pb">Kazematoi</b> is our second gauge and forces a similar playstyle to our former Huton gauge. We fill this gauge with <b >Armor Crush</b> and spend this gauge with <b>Aeolian Edge</b>. Each consumed stack grants +100 potency to Aeolian Edge, making the normally 440p skill be 540p.
 
 <b >Armor Crush</b> gains 2 Kazematoi to a maximum of 5 and <b>Aeolian Edge</b> spends 1 Kazematoi. It is important to note that we should never overcap Kazematoi, as this is a flat DPS loss.
 
