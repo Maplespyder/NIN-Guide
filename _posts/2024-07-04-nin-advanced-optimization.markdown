@@ -138,7 +138,6 @@ In short, the theory behind the JP Opener & Rotation involves replacing x1 Raito
 #### General Tips
 
 - Late weave <b>Kunai's Bane</b> as late as possible without clipping.
-- If Bunshin is active: Priotize <b>Forked Raiju</b> over <b>Fleeting Raiju</b> as the final GCD in Kunai's Bane. Due to Forked Raiju's quicker damage application, our bunshin will prepare damage that much quicker.
 
 #### Rotation
 
