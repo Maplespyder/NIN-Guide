@@ -138,6 +138,7 @@ In short, the theory behind the JP Opener & Rotation involves replacing x1 Raito
 #### General Tips
 
 - Late weave <b>Kunai's Bane</b> as late as possible without clipping.
+- Prioritize not putting Phantom Kamaitachi as the last GCD under Kunai, due to it preparing on the boss later due to being executed by the pet.
 
 #### Rotation
 
