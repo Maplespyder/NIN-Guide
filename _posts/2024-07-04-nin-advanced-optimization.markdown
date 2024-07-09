@@ -118,7 +118,6 @@ That is if Kunai's Bane is <b class="pb">late woven</b>, we can catch an additio
 
 #### General Tips
 
-- Late weave <b>Kunai's Bane</b> as late as possible without clipping, even after a Ninjutsu.
 - Prioritize not putting Phantom Kamaitachi as the last GCD under Kunai, due to it preparing on the boss later due to being executed by the pet.
 
 ## JP Opener & Rotation
