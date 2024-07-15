@@ -118,7 +118,6 @@ That is if Kunai's Bane is <b class="pb">late woven</b>, we can catch an additio
 
 #### General Tips
 
-- Late weave <b>Kunai's Bane</b> as late as possible without clipping, even after a Ninjutsu.
 - Prioritize not putting Phantom Kamaitachi as the last GCD under Kunai, due to it preparing on the boss later due to being executed by the pet.
 
 ## JP Opener & Rotation
@@ -139,7 +138,7 @@ In short, the theory behind the JP Opener & Rotation involves replacing x1 Raito
 #### General Tips
 
 - Late weave <b>Kunai's Bane</b> as late as possible without clipping.
-- If Bunshin is active: Priotize <b>Forked Raiju</b> over <b>Fleeting Raiju</b> as the final GCD in Kunai's Bane. Due to Forked Raiju's quicker damage application, our bunshin will prepare damage that much quicker.
+- Prioritize not putting Phantom Kamaitachi as the last GCD under Kunai, due to it preparing on the boss later due to being executed by the pet.
 
 #### Rotation
 
