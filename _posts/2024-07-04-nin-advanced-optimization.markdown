@@ -83,6 +83,11 @@ For both options below, I recommend using <b class="pb">XIVAlexander</b> for red
 
 These options are often rather slight gains (20-50rdps) over standard, so it's not necessary to do this but for anyone wishing to milk any extra DPS they can.
 
+<b class="pb">Which one is stronger?</b>
+
+- Extended Standard provides more value (Raiton + Raiju beats Raiju + GCD) when looking at individual windows, and therefore will generally be stronger. JP can beat out extended standard if the additional GCD grants an extra bhavacakra however.
+- Extended Standard is also tighter to execute than JP now (JP easier than it was in EW). But Extended Standard is easier to execute than Endwalker JP windows. This is due to Kunai's Bane being a longer buff.
+
 ## Extended Standard
 
 <hr>
