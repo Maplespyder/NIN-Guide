@@ -189,7 +189,7 @@ Uncomboed Aeolian (260) + Kazematoi (100) > Spinning Edge (300)
 and
 
 ```
-Uncomboed Aeolian (260) + Kazematoi (100) x 2 > Spinning Edge (300) + Gust Slash (380)
+( Uncomboed Aeolian (260) + Kazematoi (100) ) x 2 > Spinning Edge (300) + Gust Slash (380)
 =
 720 > 680
 ```
