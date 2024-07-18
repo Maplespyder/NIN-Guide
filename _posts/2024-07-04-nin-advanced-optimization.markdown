@@ -196,4 +196,4 @@ and
 
 If you have Kazematoi to spend and you know your last GCDs will be either situation above, then you can do this. It does come with the risk of losing potency if you misjudge the situation and instead lose a comboed Aeolian or Bhavacakra in the process.
 
-You can also take this one step further, if you absolutely know your kill-time, to uncomboed Aeolian spam to line better GCDs into Kunai's Bane windows. I absolutely do not recommend you do this unless you know the exact GCD you anticipate to end on though.
+You can also take this one step further, if you absolutely know your kill-time, to uncomboed Aeolian spam to line better GCDs / Ninki into Kunai's Bane windows. I absolutely do not recommend you do this unless you know the exact GCD you anticipate to end on though.
