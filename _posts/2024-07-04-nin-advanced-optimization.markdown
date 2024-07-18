@@ -79,6 +79,15 @@ table {
 <hr>
 <br>
 
+# Table of Contents
+
+- [Extended Standard](#extended-standard)
+- [JP opener & Rotation](#jp-opener--rotation)
+- [Other](#other)
+
+<hr>
+<br>
+
 For both options below, I recommend using <b class="pb">XIVAlexander</b> for reducing ping induced animation locks and <b class="pb">Reaction</b> for FPS locking on all skills.
 
 These options are often rather slight gains (20-50rdps) over standard, so it's not necessary to do this but for anyone wishing to milk any extra DPS they can.
@@ -164,3 +173,27 @@ There is also an additional benefit when Bunshin is active. In addition to the 2
 </div>
 - Alternative method by using Phantom Kamaitachi between Raiton and Kunai's Bane. 
 - Ensure Kunai's Bane is a late weave here.
+
+## Other
+
+### Uncomboed Aeolian Edge
+
+A slight optimization, especially if you're at the end of the fight, is to use Aeolian Edge <b class="pb">uncomboed</b> when you still have Kazematoi to spend. That is:
+
+```
+Uncomboed Aeolian (260) + Kazematoi (100) > Spinning Edge (300)
+=
+360 > 300
+```
+
+and
+
+```
+Uncomboed Aeolian (260) + Kazematoi (100) x 2 > Spinning Edge (300) + Gust Slash (380)
+=
+720 > 680
+```
+
+If you have Kazematoi to spend and you know your last GCDs will be either situation above, then you can do this. It does come with the risk of losing potency if you misjudge the situation and instead lose a comboed Aeolian or Bhavacakra in the process.
+
+You can also take this one step further, if you absolutely know your kill-time, to uncomboed Aeolian spam to line better GCDs into Kunai's Bane windows. I absolutely do not recommend you do this unless you know the exact GCD you anticipate to end on though.
