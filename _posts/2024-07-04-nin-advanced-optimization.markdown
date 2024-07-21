@@ -88,7 +88,11 @@ table {
 <hr>
 <br>
 
-For both options below, I recommend using <b class="pb">XIVAlexander</b> for reducing ping induced animation locks and <b class="pb">Reaction</b> for FPS locking on all skills.
+For both options below, I recommend plugins for FPS Locking & reducing animation lock induced by ping. Some recommendations:
+
+- <b class="pb">XIVAlexander</b>: For reducing ping induced animation locks **and** FPS Locking
+- <b class="pb">Reaction</b>: For FPS Locking
+- <b class="pb">NoClippy</b>: For reducing ping induced animation locks
 
 These options are often rather slight gains (20-50rdps) over standard, so it's not necessary to do this but for anyone wishing to milk any extra DPS they can.
 
