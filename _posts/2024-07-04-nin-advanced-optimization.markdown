@@ -126,8 +126,14 @@ That is if Kunai's Bane is <b class="pb">late woven</b>, we can catch an additio
 
 #### Openers
 
+These are similar to the standard 3rd and 4th openers except you giga-late weave Kunai's Bane to catch the final Raiju.
+
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/extStand4th.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/3rdGCDDoku.png" style="max-width:800px; border: 1px solid white;" />
 </div>
 
 <div style="text-align: center;">

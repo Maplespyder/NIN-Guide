@@ -216,10 +216,12 @@ Pet potency is roughly x0.92 of their listed tooltip.
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/standard4th.png" style="max-width:800px; border: 1px solid white;" />
 </div>
-- Suiton prepull preparation should be at -6.0 seconds and cast approximately -0.90 seconds on the timer. This will shorten our cooldown on mudra and ensure we can get x2 Raiton under Kunai's Bane after the opener.
+
+- Suiton prepull preparation should be at -6.0 seconds and cast approximately -0.90 seconds on the timer. This will shorten our cooldown on mudra and ensure we can get x2 Raiton under Kunai's Bane after the opener
 - Ideally drift Dokumori 1 GCD post opener, to allow for better alignment with all other raid buffs. We use it so early in the opener due to Bunshin.
+- Can catch the last Raiju (Extended Standard) with very late woven Kunai's Bane. More in the Advanced Guide.
 <br>
-<br>
+<hr>
 
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/standard3rd.png" style="max-width:800px; border: 1px solid white;" />
@@ -228,6 +230,17 @@ Pet potency is roughly x0.92 of their listed tooltip.
 - Similar to the above with Suiton and drifting Dokomori.
 - This uses Kunai's Bane a GCD earlier, but is a slightly weaker opener.
 - This opener is preferable on 2.10 GCD due to inherit drift on that speed.
+<br>
+<hr>
+
+<div style="text-align: center;">
+<img src="https://maplespyder.github.io/NIN-Guide/assets/images/3rdGCDDoku.png" style="max-width:800px; border: 1px solid white;" />
+</div>
+
+- Similar to 4th GCD Standard except Dokumori is much better aligned with other raid buffs in the party.
+- Main difference is Bunshin is 1GCD later throughout the fight and is a slightly weaker opener.
+<br>
+<hr>
 
 ## Standard Rotation
 
