@@ -101,7 +101,7 @@ If you're looking for <b class="pb">Advanced Optimizations</b> such as Extended 
 
 ## Resources
 
-⦿ [Video Demo](): SOON...
+⦿ [Video Demo](https://www.youtube.com/watch?v=JNdx90pYgAE&t)
 
 ⦿ [Rotation Planner](https://bit.ly/45JLVNL): Includes a visualization of a 6-minute rotation, but primarily allows anyone to create a rotation with calculated values.
 
