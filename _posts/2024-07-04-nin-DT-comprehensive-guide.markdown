@@ -299,7 +299,7 @@ Throughout our rotation we will be building resources and spending <b class="pb"
       <td>Deathfrog Medium</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/cb1fc6f802ae442daa8ead243f4f9f49bf9525f4.png" style="width:40px"/></td>
       <td>300/target</td>
-      <td>When there are 2+ targets.</td>
+      <td>When there are 3+ targets.</td>
     </tr>
   </tbody>
 </table><br>
