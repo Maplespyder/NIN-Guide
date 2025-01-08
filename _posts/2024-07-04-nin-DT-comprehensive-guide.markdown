@@ -353,7 +353,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
       <td>Doton</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/c4807f81a654f2b25cca49c1f61e9b3bc7df62d6.png" style="width:40px" /></td>
       <td>80p / tick per target, for 7 ticks. 560p / target full duration.</td>
-      <td>Targets afflicted with Doton for the full duration will endure 560p (or 80p per tick). Use on 3+ targets if targets remain in it for the full duration. An additional 50p (Hollow Nozuchi) is added per target upon use of Hakke Mujinsatsu, Katon, Goka Mekkyaku and Phantom Kamaitachi.</td>
+      <td>Targets afflicted with Doton for the full duration will endure 560p (or 80p per tick). Use on 2+ targets if targets remain in it for the full duration. An additional 50p (Hollow Nozuchi) is added per target upon use of Hakke Mujinsatsu, Katon, Goka Mekkyaku and Phantom Kamaitachi.</td>
     </tr>
         <tr>
       <td>Hyosho Ranryu</td>
@@ -442,7 +442,7 @@ If Bunshin was used 45s within an odd Kunai's Bane, and <b>Phantom Kamaitachi</b
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/oddEx1.png" style="max-width:800px; border: 1px solid white;" />
 </div>
-- Example of a fairly standard odd window, where we have Phnatom Kamaitachi available. 
+- Example of a fairly standard odd window, where we have Phantom Kamaitachi available. 
 - Bunshin isn't active in this window.
 
 <div style="text-align: center;">
