@@ -411,7 +411,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
             <td><img src="https://lds-img.finalfantasyxiv.com/d/d40b78dd5c99076b25086882f27de295f8a609af.png" style="width:40px"/><br>
             <img src="https://lds-img.finalfantasyxiv.com/d/86e59c1bd3dedee2a6b68d3321da04c68a3acb52.png" style="width:40px"/></td>
       <td>100p / target & 120p / target respectively</td>
-      <td>Use if 4+ targets. If Doton active, use if 3+ targets.</td>
+      <td>Use if 4+ targets. If Doton AND Bunshin active, use on 3+ targets.</td>
     </tr>
   </tbody>
 </table><br>
