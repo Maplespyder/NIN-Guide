@@ -280,7 +280,7 @@ Throughout our rotation we will be building resources and spending <b class="pb"
     <tr>
       <td>Bhavacakra</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:40px"/></td>
-            <td>380 or 530</td>
+            <td>400 or 550</td>
       <td>When there are 1 - 2 targets. Only use on 3 targets if Meisui is active.</td>
     </tr>
     <tr>
@@ -298,7 +298,7 @@ Throughout our rotation we will be building resources and spending <b class="pb"
         <tr>
       <td>Deathfrog Medium</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/cb1fc6f802ae442daa8ead243f4f9f49bf9525f4.png" style="width:40px"/></td>
-      <td>300/target</td>
+      <td>260/target</td>
       <td>When there are 3+ targets.</td>
     </tr>
   </tbody>
@@ -410,7 +410,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
       <td>Death Blossom & Hakke</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/d40b78dd5c99076b25086882f27de295f8a609af.png" style="width:40px"/><br>
             <img src="https://lds-img.finalfantasyxiv.com/d/86e59c1bd3dedee2a6b68d3321da04c68a3acb52.png" style="width:40px"/></td>
-      <td>100p / target & 130p / target respectively</td>
+      <td>100p / target & 120p / target respectively</td>
       <td>Use if 4+ targets. If Doton active, use if 3+ targets.</td>
     </tr>
   </tbody>
