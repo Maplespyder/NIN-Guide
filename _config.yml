@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   FFXIV 7.0 NIN Guide
 baseurl: "/NIN-Guide" # the subpath of your site, e.g. /blog
 url: "https://maplespyder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kackalJackal
+twitter_username: Maplespyder
 
 markdown: kramdown
 kramdown:
