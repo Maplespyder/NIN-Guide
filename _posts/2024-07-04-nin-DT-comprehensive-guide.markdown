@@ -202,7 +202,7 @@ This is because pets don't benefit from <b>party bonus</b> and have a <b>lower j
 
 ```
 Pet potency is roughly x0.92 of their listed tooltip.
-- Phantom Kamaitachi is 552 potency
+- Phantom Kamaitachi is 644 potency
 - Single-Target bunshin hits are 147 potency.
 ```
 
