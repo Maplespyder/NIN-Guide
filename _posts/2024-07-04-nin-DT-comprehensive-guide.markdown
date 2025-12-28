@@ -136,7 +136,7 @@ If you're looking for <b class="pb">Advanced Optimizations</b> such as Extended 
 
 ⦿ <b class="pb">Ninki</b> is one of two gauges, and allows us to accumulate resources for use of <b>Bhavacakra</b>, <b >Hellfrog Medium</b> or <b>Bunshin</b>.
 
-Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn gauge right before Trick Attack. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Trick.
+Furthermore, we ought to avoid ever overcapping on Ninki, even if we must burn gauge right before Kunai's Bane. Overcapped Ninki is potential oGCD loss, which is a far larger loss than the gain of getting more Bhavacakras under Kunai's Bane.
 
 Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an additional +5 Ninki.
 
@@ -182,9 +182,9 @@ Additionally, any GCDs that consume <b class="pb">Bunshin</b> will gain an addit
   </tbody>
 </table><br>
 
-⦿ <b class="pb">Kazematoi</b> is our second gauge and forces a similar playstyle to our former Huton gauge. We fill this gauge with <b >Armor Crush</b> and spend this gauge with <b>Aeolian Edge</b>. Each consumed stack grants +100 potency to Aeolian Edge, making the normally 440p skill be 540p.
+⦿ <b class="pb">Kazematoi</b> is our second gauge and forces a similar playstyle to our former Huton gauge. We fill this gauge with <b >Armor Crush</b> and spend this gauge with <b>Aeolian Edge</b>. Each consumed stack grants +100 potency to Aeolian Edge, making the normally 460p skill be 560p.
 
-<b >Armor Crush</b> gains 2 Kazematoi to a maximum of 5 and <b>Aeolian Edge</b> spends 1 Kazematoi. It is important to note that we should never overcap Kazematoi, as this is a flat DPS loss.
+<b>Armor Crush</b> gains 2 Kazematoi to a maximum of 5 and <b>Aeolian Edge</b> spends 1 Kazematoi. It is important to note that we should never overcap Kazematoi, as this is a flat DPS loss.
 
 <div style="text-align: center;">
 <img src="https://lds-img.finalfantasyxiv.com/promo/h/X/4N08Eemw-qqy87gkDKHtHfULpg.png"  style="width: 200px"/>
@@ -281,25 +281,25 @@ Throughout our rotation we will be building resources and spending <b class="pb"
       <td>Bhavacakra</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:40px"/></td>
             <td>400 or 550</td>
-      <td>When there are 1 - 2 targets. Only use on 3 targets if Meisui is active.</td>
+      <td>When there is only 1 target, or when there are up to 2 enemies and Meisui is active, else Hellfrog Medium.</td>
     </tr>
     <tr>
       <td>Zesho Meppo</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/55604bbe9cf720982be6e0ef74e9bf002d939935.png"  style="width:40px"/></td>
       <td>700 or 850</td>
-      <td>When there is only 1 target, else Deathfrog Medium.</td>
+      <td>When there is only 1 target, or when there are up to 2 enemies and Meisui is active, else Deathfrog Medium.</td>
     </tr>
         <tr>
       <td>Hellfrog Medium</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/c802df3d7abd5e50889d1cc5e97cf64eb1610afa.png" style="width:40px"/></td>
-      <td>160/target</td>
-      <td>When there are 3+ targets.</td>
+      <td>250 / target</td>
+      <td>When there are 2 targets and you don't have Meisui. When there are 3+ targets if Bhavacakra would be enhanced by Meisui.</td>
     </tr>
         <tr>
       <td>Deathfrog Medium</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/cb1fc6f802ae442daa8ead243f4f9f49bf9525f4.png" style="width:40px"/></td>
-      <td>260/target</td>
-      <td>When there are 3+ targets.</td>
+      <td>400 / target</td>
+      <td>When there are 2 targets and you don't have Meisui. When there are 3+ targets if Zesho Meppo would be enhanced by Meisui.</td>
     </tr>
   </tbody>
 </table><br>
@@ -328,7 +328,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
       <tr>
       <td>Suiton</td>
       <td><img src="https://lds-img.finalfantasyxiv.com/d/fd706ad1980d3382fd9c64ffec7a0374d549d5cc.png" style="width:40px"/></td>
-      <td>540p</td>
+      <td>580p</td>
       <td>Use with 1 - 2 targets.</td>
     </tr>
         <tr>
@@ -359,13 +359,13 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
       <td>Hyosho Ranryu</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:40px"/></td>
       <td>1,690p (with Kassatsu).</td>
-      <td>Use with 1 - 2 targets.</td>
+      <td>Use with 1 target.</td>
     </tr>
         <tr>
       <td>Goka Mekkyaku</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/289a0bd6679306c587cb3bcf2f90a1ed6bfb1897.png" style="width:40px"/></td>
-      <td>780p / target (with Kassatsu).</td>
-      <td>Use with 3+ targets.</td>
+      <td>1105p / target (with Kassatsu).</td>
+      <td>Use with 2+ targets.</td>
     </tr>
   </tbody>
 </table><br>
@@ -403,8 +403,8 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
         <tr>
       <td>Goka Mekkyaku</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/289a0bd6679306c587cb3bcf2f90a1ed6bfb1897.png" style="width:40px"/></td>
-      <td>780p / target (with Kassatsu)</td>
-      <td>Use over Hyosho with 3+ targets.</td>
+      <td>1105p / target (with Kassatsu)</td>
+      <td>Use over Hyosho with 2+ targets.</td>
     </tr>
             <tr>
       <td>Death Blossom & Hakke</td>
@@ -448,7 +448,7 @@ If Bunshin was used 45s within an odd Kunai's Bane, and <b>Phantom Kamaitachi</b
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/oddEx2.png" style="max-width:800px; border: 1px solid white;" />
 </div>
-- In this example, Bunshin is active and we opted to push Phantom Kamaitachi after Kunai's Bane to allow Aeolian + Bunshin to fit in instead (687p > 552p).
+- In this example, Bunshin is active and we opted to push Phantom Kamaitachi after Kunai's Bane to allow Aeolian + Bunshin to fit in instead (707p > 644p).
 
 <div style="text-align: center;">
 <img src="https://maplespyder.github.io/NIN-Guide/assets/images/oddEx3.png" style="max-width:800px; border: 1px solid white;" />
@@ -462,7 +462,7 @@ If Bunshin was used 45s within an odd Kunai's Bane, and <b>Phantom Kamaitachi</b
 
 ### Even Window
 
-This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Trick, but is stronger for we will be also bursting within <b class="pb">Dokumori</b> and have all our other 2-minute cooldowns.
+This is a window that occurs every even minute or is a window that has all our 2-minute cooldowns available. The Even window is much like our Odd Window, but is stronger for we will be also bursting within <b class="pb">Dokumori</b> and have all our other 2-minute cooldowns.
 
 - <b class="pb">Kunai's Bane</b> should have: x1 <b>Hyosho</b> <img src="https://lds-img.finalfantasyxiv.com/d/a700c6a595b5f5ee272b5a3452f680497df8fabe.png"  style="width:15px"/>, x2 <b>Raiton</b> <img src="https://lds-img.finalfantasyxiv.com/d/1c5d9c8d2301016f0d1d7412cc5100a7e41de735.png" style="width:15px" />, x2 <b>Raiju</b> <img src="https://lds-img.finalfantasyxiv.com/d/aaf631010c04fc9685247fe855060f640dff89f7.png" style="width:15px" />, x1 <b>Dream Within A Dream</b> <img src="https://lds-img.finalfantasyxiv.com/d/f2e750bda00af60c3a06480f512753c8b6d5951b.png" style="width:15px" />, x1 Ten-Chi-Jin <img src="https://lds-img.finalfantasyxiv.com/d/9c0c72efe9ba9c13d3765b1b7dd863c68eeaf4ba.png" style="width:15px" />, x1 Tenri Jindo, x1 Zesho Meppo, and as many <b>Bhavacakras</b> <img src="https://lds-img.finalfantasyxiv.com/d/7fa8283b30b9ac35aada60984cbfaf01d3268c95.png" style="width:15px"/> as we have available.
 
