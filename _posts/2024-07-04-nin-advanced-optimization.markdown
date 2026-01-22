@@ -114,7 +114,7 @@ Thanks to Kunai's Bane, our personal debuff is now <b class="pb">16.25 seconds</
 
 That is if Kunai's Bane is <b class="pb">late woven</b>, we can catch an additional GCD while also using x2 Raitons in our <b class="pb">even / 2-minute</b> windows.
 
-<b style="color:red">WARNING:</b> It's pretty tight! The only drawback to trying this might be just drifting Kunai's Bane, but overall the gameplay is quite identical to standard.
+<b style="color:red">WARNING:</b> It's pretty tight. While the gameplay is similar to standard, the drawback is possibly drifting your Kunai's Bane, depending on any clipping / microclipping you may be doing. 
 
 #### Example
 
