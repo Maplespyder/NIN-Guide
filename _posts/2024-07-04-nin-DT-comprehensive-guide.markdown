@@ -292,14 +292,14 @@ Throughout our rotation we will be building resources and spending <b class="pb"
         <tr>
       <td>Hellfrog Medium</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/c802df3d7abd5e50889d1cc5e97cf64eb1610afa.png" style="width:40px"/></td>
-      <td>160/target</td>
-      <td>When there are 3+ targets.</td>
+      <td>250/target</td>
+      <td>When there are 2+ targets (unless under Meisui).</td>
     </tr>
         <tr>
       <td>Deathfrog Medium</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/cb1fc6f802ae442daa8ead243f4f9f49bf9525f4.png" style="width:40px"/></td>
-      <td>260/target</td>
-      <td>When there are 3+ targets.</td>
+      <td>400/target</td>
+      <td>When there are 2+ targets (unless under Meisui)</td>
     </tr>
   </tbody>
 </table><br>
