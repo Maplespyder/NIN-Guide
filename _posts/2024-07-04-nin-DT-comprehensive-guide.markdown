@@ -328,7 +328,7 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
       <tr>
       <td>Suiton</td>
       <td><img src="https://lds-img.finalfantasyxiv.com/d/fd706ad1980d3382fd9c64ffec7a0374d549d5cc.png" style="width:40px"/></td>
-      <td>540p</td>
+      <td>580p</td>
       <td>Use with 1 - 2 targets.</td>
     </tr>
         <tr>
