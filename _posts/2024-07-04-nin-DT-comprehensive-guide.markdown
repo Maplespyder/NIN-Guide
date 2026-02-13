@@ -364,8 +364,8 @@ It is important for a Ninja to understand and confidently know each Ninjutsu com
         <tr>
       <td>Goka Mekkyaku</td>
             <td><img src="https://lds-img.finalfantasyxiv.com/d/289a0bd6679306c587cb3bcf2f90a1ed6bfb1897.png" style="width:40px"/></td>
-      <td>780p / target (with Kassatsu).</td>
-      <td>Use with 3+ targets.</td>
+      <td>1105p / target (with Kassatsu).</td>
+      <td>Use with 2+ targets.</td>
     </tr>
   </tbody>
 </table><br>
